@@ -1,7 +1,7 @@
 ## Trade
 
 
-1. For to install: `git clone https://pintokha17@bitbucket.org/pintokha17/trade.git`
+1. For to install: `git clone`
 2. Update composer: `composer update`
 3. Run migrations: `php artisan migrate`
 4. Install passport: `php artisan passport install`
